@@ -18,7 +18,7 @@
 <body>
 
   <!-- ==========================================
-  START: Sidebar Component
+ 
   Highly polished, dark-green sticky navigation
   ========================================== -->
   <div class="sidebar-wrapper" id="sidebar">
