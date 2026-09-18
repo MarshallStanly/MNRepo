@@ -17,7 +17,7 @@
 
 <body>
 
-  <!-- ==========================================
+  <!-- =========================================
  
   Highly polished, dark-green sticky navigation
   ========================================== -->
@@ -25,7 +25,7 @@
     <!-- Brand Logo / Identity -->
     <a href="index.html" class="sidebar-brand">
       <i class="bi bi-asterisk"></i>
-      <span>Proyecto MN!</span>
+      <span>Proyecto MN</span>
     </a>
 
     <!-- Navigation Menu -->
